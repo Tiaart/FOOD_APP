@@ -1,0 +1,2 @@
+для запуска сборки в режиме development - npm start
+для запуска сборки в режиме prodaction - npm run build
